@@ -17,10 +17,10 @@ import json
 import pandas as pd 
 import numpy as np 
 
-access_token = 'EAAKRWew7iV4BAO2J953hSsyuIEAsWVb60GFMXnKZBLFLBxUpseAFLzPVCkupuHFrxtU1uIrKhRxMTVwmUFXutrC4R4A55hy7Rs8AW5kTeRLx5D0sWyXRoucwvPhnSIBqSJh4J19pMTaqtGAQ10pVR3hf3bCyi4mKL5Uzeze6NQlz7vsKg'
-ad_account_id = 'act_1131836543547368'
-my_app_secret = 'f8d6b7444fb7d69974e4cc07dbca9a3f'
-my_app_id = '722765354862942'
+access_token = 'X'
+ad_account_id = 'X'
+my_app_secret = 'X'
+my_app_id = 'X'
 FacebookAdsApi.init(access_token=access_token)
 
 
